@@ -1,8 +1,5 @@
 name: binder-tutorial
-channels:
-  - defaults
 dependencies:
-  - ipykernel
   - seaborn
   - matplotlib
   - pandas
